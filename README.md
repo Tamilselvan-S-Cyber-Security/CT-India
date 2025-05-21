@@ -1,6 +1,4 @@
-# CT India - One App. One City. Everything You Need.
-
-![CT India Logo](assets/logo.png)
+# CT India - One App. 
 
 ## 📱 Overview
 
