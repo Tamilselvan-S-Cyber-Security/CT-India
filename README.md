@@ -147,17 +147,8 @@ CT India is a comprehensive city services app that brings together essential ser
 - Data privacy compliance
 - Regular security audits
 
-## 🤝 Contributing
-We welcome contributions! Please read our contributing guidelines before submitting pull requests.
-
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 📞 Support
-For support, email support@ctindia.com or visit our website www.ctindia.com
-
 ---
-Made with ❤️ by CT India Team 
+Made with ❤️ by CYBER WOLF India Team 
 
 
 ```mermaid
